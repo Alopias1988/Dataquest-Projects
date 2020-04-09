@@ -7,4 +7,7 @@
 Use of pandas library to work with a dataset of used cars from a German eBay website. Project focused on the cleaning of the dataset through renaming of columns, removal of nonessential data
 
 [Project 2: Visualizing Earnings Based on College Majors](https://github.com/Alopias1988/Dataquest-projects/blob/master/P2%20Visualising%20Earnings%20Based%20on%20College%20Majors/P2Vis_earnings.ipynb)
-Here weexplore how using the pandas plotting functionality along with the Jupyter notebook interface allows us to explore data quickly using visualizations
+Here we explore how using the pandas plotting functionality along with the Jupyter notebook interface allows us to explore data quickly using visualizations
+
+[Project 3: Visualizing Gender Gap In College Degrees](https://github.com/Alopias1988/Dataquest-projects/blob/master/P3%20Visualizing%20Gender%20Gap%20In%20College%20Degrees%20/P3.ipynb)
+
