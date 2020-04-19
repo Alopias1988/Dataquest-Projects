@@ -13,3 +13,6 @@ Here we explore how using the pandas plotting functionality along with the Jupyt
 
 [Project 4: Clean And Analyze Employee Exit Surveys](https://github.com/Alopias1988/Dataquest-projects/blob/master/P4%20Clean%20And%20Analyze%20Employee%20Exit%20Surveys/Basics-2.ipynb)
 Using pandas to clean and analyze exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia
+
+[SQL1 : Analyzing CIA Factbook Data Using SQL](https://github.com/Alopias1988/Dataquest-projects/blob/master/SQL1%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQL%20%20/Basics.ipynb)
+Using SQL to organize, analyze and explore data
